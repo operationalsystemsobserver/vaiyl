@@ -1,5 +1,7 @@
 # The V.A.I.Y.L. Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18986103.svg)](https://doi.org/10.5281/zenodo.18986103)
+
 A structured way to examine variations in operator experience.
 
 Developed by Operational Systems Observer.
