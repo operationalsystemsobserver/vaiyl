@@ -2,15 +2,25 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18986103.svg)](https://doi.org/10.5281/zenodo.18986103)
 
-A structured way to examine variations in operator experience.
+A lightweight framework for examining variation in complex operational systems.
 
 Developed by Operational Systems Observer.
 
 ---
 
+## Introduction
+
+An introduction to the V.A.I.Y.L. Framework is available here:
+
+https://operationalsystemsobserver.substack.com/p/the-vaiyl-framework
+
+---
+
 ## Field Guide
 
-Download the framework guide.
+The **V.A.I.Y.L. Framework Field Guide** provides a complete overview of the framework and its components.
+
+Download the guide here:
 
 [V.A.I.Y.L. Framework Field Guide](./VAIYL_Framework_Field_Guide_v1.pdf)
 
