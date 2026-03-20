@@ -8,6 +8,19 @@ Developed by Operational Systems Observer.
 
 ---
 
+## Current Version
+
+**Version 1.1**
+
+This version reflects:
+- Timeframe-based recording in place of exact dates
+- Clarification of Seed Logs as living documents
+- Structural consistency improvements across framework and records
+
+Previous versions are archived in `/archive/v1`.
+
+---
+
 ## Introduction
 
 An introduction to the V.A.I.Y.L. Framework is available here:
@@ -22,7 +35,7 @@ The **V.A.I.Y.L. Framework Field Guide** provides a complete overview of the fra
 
 Download the guide here:
 
-[V.A.I.Y.L. Framework Field Guide](./VAIYL_Framework_Field_Guide_v1.pdf)
+[V.A.I.Y.L. Framework Field Guide](./VAIYL_Framework_Field_Guide_v1.1.pdf)
 
 ---
 
@@ -30,7 +43,7 @@ Download the guide here:
 
 A visual representation of the framework structure.
 
-[V.A.I.Y.L. Framework Structure (Figure 1)](./VAIYL_Framework_Structure_v1.pdf)
+[V.A.I.Y.L. Framework Structure (Figure 1)](./VAIYL_Framework_Structure_v1.1.pdf)
 
 ---
 
@@ -44,7 +57,7 @@ Records currently included:
 - SL-002 — Crossing Runways Separation Interpretation  
 - SL-003 — Memory Aid Design and Secondary Risk  
 
-See the **records** folder for individual records.
+See the **records** folder for current records.
 
 ---
 
