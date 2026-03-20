@@ -1,8 +1,8 @@
 # The V.A.I.Y.L. Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18986103.svg)](https://doi.org/10.5281/zenodo.18986103)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19121310.svg)](https://doi.org/10.5281/zenodo.19121310)
 
-A lightweight framework for examining variation in complex operational systems.
+A lightweight framework for examining variation in complex operational systems through structured observation.
 
 Developed by Operational Systems Observer.
 
@@ -16,6 +16,8 @@ This version reflects:
 - Timeframe-based recording in place of exact dates
 - Clarification of Seed Logs as living documents
 - Structural consistency improvements across framework and records
+
+DOI corresponds to the latest released version of the framework.
 
 Previous versions are archived in `/archive/v1`.
 
