@@ -67,6 +67,8 @@ See the **records** folder for current records.
 
 The V.A.I.Y.L. Framework emerged from practical reflection on operational experience within complex systems. It provides a lightweight method for examining variations noticed by operators during normal work.
 
+Examples are generalized and do not represent specific facilities or events, and are intended solely to illustrate the application of the framework.
+
 ---
 
 ## Author
